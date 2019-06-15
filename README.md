@@ -87,7 +87,9 @@ Step3:How to initiate the game:
 
 # Tools used to develop the code in effective way:
 [Sublime Text](https://www.sublimetext.com/3)
+
 [Atom](https://atom.io/)
+
  Sublime and Atom both are Text-Editors.
 
 # Resources
