@@ -94,12 +94,14 @@ Step3:How to initiate the game:
 
 # Resources
 [MDN 2D](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
+
 [W3SchoolsES6](https://www.w3schools.com/js/js_es6.asp)
+
 [Udacity Js Link](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 # I refer below link to initiate the project
 
-[Skelton code] ()
+[Skelton code](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 # Dependencies
 
