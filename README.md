@@ -1,4 +1,5 @@
 # Arcade Game  Project
+# [Game Link](https://swamykankipati.github.io/Frontend-Nanodegree-Arcade-Game/index.html)
 
 ## Game  Functionality
 
