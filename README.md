@@ -93,9 +93,9 @@ Step3:How to initiate the game:
  Sublime and Atom both are Text-Editors.
 
 # Resources
-[MDN 2D] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
-[W3SchoolsES6] (https://www.w3schools.com/js/js_es6.asp)
-[Udacity Js Link] (https://github.com/udacity/frontend-nanodegree-arcade-game)
+[MDN 2D](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
+[W3SchoolsES6](https://www.w3schools.com/js/js_es6.asp)
+[Udacity Js Link](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 # I refer below link to initiate the project
 
