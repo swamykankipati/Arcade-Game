@@ -86,15 +86,15 @@ Step3:How to initiate the game:
 -   I used functions called closures and prototype chains which are in Object-Oriented JavaScript. The 'this' keyword Superclasses and subclasses HTML5 Canvas and SweetAlert is a Javascript Library. It is used to display popup message after complete the game.
 
 # Tools used to develop the code in effective way:
-
-     [Sublime Text](https://www.sublimetext.com/3)
-
-     [Atom](https://atom.io/)
-    Sublime and Atom both are Text-Editors.
+[Sublime Text](https://www.sublimetext.com/3)
+[Atom](https://atom.io/)
+ Sublime and Atom both are Text-Editors.
 
 # Resources
 [MDN 2D] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
+
 [W3SchoolsES6] (https://www.w3schools.com/js/js_es6.asp)
+
 [Udacity Js Link] (https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 # I refer below link to initiate the project
