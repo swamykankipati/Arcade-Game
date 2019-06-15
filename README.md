@@ -94,11 +94,11 @@ Step3:How to initiate the game:
 
 # Resources
 
-      - MDN  [2D collisons] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
+      - [MDN 2D] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
 
-      - W3SchoolsES6 [Es6link] (https://www.w3schools.com/js/js_es6.asp)
+      - [W3SchoolsES6] (https://www.w3schools.com/js/js_es6.asp)
 
-      - Udacity-JavaScript [Js Link] (https://www.udacity.com/course/intro-to-javascript--ud803)
+      -  [Js Link] (https://www.udacity.com/course/intro-to-javascript--ud803)
 
 # I refer below link to initiate the project
 
