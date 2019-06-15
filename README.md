@@ -105,8 +105,9 @@ Step3:How to initiate the game:
 
 # Dependencies
 
-HTML5
-Javascript ES6
-CSS
+[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[Javascript ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 Javascript Library SweetAlert
-  [Sweet Alert Link] (https://sweetalert.js.org/guides/)
+
+[Sweet Alert Link](https://sweetalert.js.org/guides/)
