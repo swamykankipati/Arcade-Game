@@ -1,5 +1,5 @@
 # Arcade Game  Project
-# [Game Link](https://swamykankipati.github.io/Frontend-Nanodegree-Arcade-Game/index.html)
+# [Game Link](https://swamykankipati.github.io/Front-End-Nano-Degree-Project-3-Arcade-Game/)
 
 ## Game  Functionality
 
